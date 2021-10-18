@@ -1,9 +1,9 @@
 {
-  "tokens": [],
-  "channels": [],
-  "staffRoles": [],
-  "unregisterRoles": [],
+  "tokens": ["nagagkgwmwmywym","nqfagmmwgwgmhmw","ngaahmamhymw","m2ywmy2ym"],
+  "channels": ["895605056362131476","895605342665326643","895605820144898049","895605912188899328"],
+  "staffRoles": ["895604574382067712"],
+  "unregisterRoles": ["895359536158871632"],
 
-  "welcomeSound": "",
-  "staffSound": ""
+  "welcomeSound": "https://cdn.discordapp.com/attachments/826141237471871016/866012350224793601/ses_welcome.mp3",
+  "staffSound": "https://cdn.discordapp.com/attachments/826141237471871016/866012337944133683/ses_yetkili.mp3"
 }
